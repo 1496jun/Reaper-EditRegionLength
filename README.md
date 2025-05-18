@@ -1,3 +1,6 @@
+## Change Region Length (REAPER Lua Script)
+
+
 ![image](https://github.com/user-attachments/assets/ea466b93-bda8-4827-bd53-eaacf06ebcfd)
 
 ↓
@@ -5,7 +8,6 @@
 ![image](https://github.com/user-attachments/assets/6ef741a0-2327-459a-88c4-0683a9786639)
 
 
-## Change Region Length (REAPER Lua Script)
 
 This REAPER Lua script allows you to **extend or shorten the length of regions** within the currently selected time range by a user-specified number of seconds.  
 It is especially useful for batch editing multiple regions without manually adjusting each one.
