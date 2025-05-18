@@ -23,19 +23,8 @@ It is especially useful for batch editing multiple regions without manually adju
 3. Enter the number of seconds to extend or shorten.
 4. The script adjusts the length of all regions within the selected time range accordingly.
 
----
 
-### Disclaimer
-
-This script is provided **as-is** without any warranty.  
-Use it **at your own risk**. Always make a backup of your REAPER project before running scripts that modify project data.
-
-
-
----
-
-
-# How to Install This REAPER Lua Script Manually
+### How to Install This REAPER Lua Script Manually
 
 This repository contains a Lua script for REAPER.  
 You can install it manually by following the steps below.
@@ -63,3 +52,9 @@ You can install it manually by following the steps below.
    - Once loaded, you will see the script in the Action List.
    - Select it and click `Run`, or assign it to a shortcut key.
 
+
+
+### Disclaimer
+
+This script is provided **as-is** without any warranty.  
+Use it **at your own risk**. Always make a backup of your REAPER project before running scripts that modify project data.
