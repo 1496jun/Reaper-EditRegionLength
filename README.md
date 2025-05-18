@@ -31,7 +31,9 @@ You can install it manually by following the steps below.
 *This script is not currently distributed through ReaPack.
 
 1. **Download the Lua file**
-
+   - Click on the `EditRegionLength.lua` file in this repository.
+   - Download raw file.
+     
 2. **Move the file to REAPER's Scripts folder**
 
    - In REAPER, go to `Options > Show REAPER resource path in explorer/finder`.
