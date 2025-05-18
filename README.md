@@ -39,6 +39,7 @@ Use it **at your own risk**. Always make a backup of your REAPER project before 
 
 This repository contains a Lua script for REAPER.  
 You can install it manually by following the steps below.
+*This script is not currently distributed through ReaPack.
 
 1. **Download the Lua file**
 
@@ -62,9 +63,3 @@ You can install it manually by following the steps below.
    - Once loaded, you will see the script in the Action List.
    - Select it and click `Run`, or assign it to a shortcut key.
 
----
-
-##  Notes
-
-- This script is not currently distributed through ReaPack.
-- You can always come back to this repository to download the latest version manually.
