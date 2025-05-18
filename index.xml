@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reapack version="1.2">
+  <package>
+    <name>My Script</name>
+    <type>script</type>
+    <author>Your Name</author>
+    <version>1.0</version>
+    <description>説明文</description>
+    <changelog>初回リリース</changelog>
+    <provides>[main] MyScript.lua</provides>
+    <source>
+      <url>https://raw.githubusercontent.com/1496jun/Reaper-EditRegionLength/main/EditRegionLength.lua</url>
+    </source>
+  </package>
+</reapack>
