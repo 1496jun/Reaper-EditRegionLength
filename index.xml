@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <reapack version="1.2">
   <package>
-    <name>My Script</name>
+    <name>Change Region Length</name>
     <type>script</type>
-    <author>Your Name</author>
+    <author>1496jun</author>
     <version>1.0</version>
-    <description>説明文</description>
-    <changelog>初回リリース</changelog>
-    <provides>[main] MyScript.lua</provides>
+    <description>Change the length of selected regions</description>
+    <changelog>Initial release</changelog>
+    <provides>[main] Scripts/Change Region Length.lua</provides>
     <source>
-      <url>https://raw.githubusercontent.com/1496jun/Reaper-EditRegionLength/main/EditRegionLength.lua</url>
+      <url>https://raw.githubusercontent.com/1496jun/Reaper-EditRegionLength/main/Scripts/Change%20Region%20Length.lua</url>
     </source>
   </package>
 </reapack>
